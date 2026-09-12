@@ -1,0 +1,6 @@
+{
+  "name": "BGN Quality & Safety Hub",
+  "description": "Sistem Manajemen Gizi, HACCP, Posyandu Kelompok 3B & SOP Operasional Badan Gizi Nasional Republik Indonesia",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
